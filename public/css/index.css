@@ -311,7 +311,6 @@ nav .icon-burger .line {
 
 .zoom {
     transition: transform 0.3s;
-    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.123);
 }
 
 .zoom:hover {

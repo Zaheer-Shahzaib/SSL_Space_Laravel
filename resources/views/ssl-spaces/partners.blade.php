@@ -241,7 +241,7 @@
             feels like home—where every moment is crafted with you in mind. Welcome to a place where your stay is
             more than just temporary; it's an experience tailored to you.
         </p>
-        <div class="img-partner py-5 text-center" data-aos="zoom-out">
+        <div class="img-partner py-5 text-left" data-aos="zoom-out">
             <img src="{{asset('images/Fully furnished Apartment.jpg')}}" alt="">
         </div>
         <p class="heading-text-partner" data-aos="zoom-in">

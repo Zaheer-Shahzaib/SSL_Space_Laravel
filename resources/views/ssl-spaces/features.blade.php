@@ -342,8 +342,6 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 pt-4" data-aos="fade-right">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 pt-4" data-aos="fade-right">
                 <div class="row">
                     <div class="col-lg-1 col-md-2 col-sm-1">
                         <img class="img-feat" src="{{asset('images/sec-27.png')}}" alt="">
@@ -355,8 +353,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 pt-4" data-aos="fade-right">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 pt-4 pb-5" data-aos="fade-right">
                 <div class="row">
@@ -371,6 +367,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
         <!--End all imags section  -->
         <div class="row pt-3" data-aos="zoom-in">
@@ -445,7 +442,7 @@
                 <div class="card text-center" style="border-radius: 10px;">
                     <div class="justify-content-center">
                         <a href="https://www.zameen.com/">
-                            <img style="height: 120px;" src="{{asset('images/zameen-logo.png')}}" class="zoom" alt="Card">
+                            <img style="height: 80px; margin-top:10px;" src="{{asset('images/zameen-logo.png')}}" class="zoom" alt="Card">
                         </a>
                     </div>
                     <div class="card-body">
@@ -459,7 +456,7 @@
                 <div class="card text-center" style="border-radius: 10px;">
                     <div class="justify-content-center">
                         <a href="https://www.airbnb.com/">
-                            <img style="height: 120px" src="{{asset('images/airbnb-logo.png')}}" class="img-fluid zoom" alt="Card">
+                            <img style="height: 80px; margin-top:10px;" src="{{asset('images/airbnb-logo.png')}}" class="img-fluid zoom" alt="Card">
                         </a>
                     </div>
                     <div class="card-body">
@@ -473,7 +470,7 @@
                 <div class="card text-center" style="border-radius: 10px;">
                     <div class="justify-content-center">
                         <a href="https://www.olx.com.pk/">
-                            <img style="height: 120px;" src="{{asset('images/olx-logo.jpg.png')}}" class="img-fluid zoom" alt="Card">
+                            <img style="height: 80px; margin-top:10px;" src="{{asset('images/olx-logo.jpg.png')}}" class="img-fluid zoom" alt="Card">
                         </a>
                     </div>
                     <div class="card-body">
@@ -487,7 +484,7 @@
                 <div class="card text-center" style="border-radius: 10px;">
                     <div class="justify-content-center">
                         <a href="https://thesslgroup.com/">
-                            <img style="height: 120px;" src="{{asset('images/ssl-logo-black.png')}}" class="img-fluid zoom" alt="Card">
+                            <img style="height: 80px; margin-top:10px;" src="{{asset('images/ssl-logo-black.png')}}" class="img-fluid zoom" alt="Card">
                         </a>
                     </div>
                     <div class="card-body">
