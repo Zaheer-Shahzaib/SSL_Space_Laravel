@@ -1,0 +1,482 @@
+.first-blog {
+    color: black;
+    font-size: 68px;
+    font-weight: 900;
+}
+
+.blog-heading {
+    font-size: 26px;
+    color: #000;
+}
+
+.blog-des {
+    font-size: 16px;
+    color: #424542;
+}
+
+.text-blog {
+    border-bottom: 1px solid #e5e1e1;
+}
+
+.row-float-left-blog {
+    color: #898b89;
+}
+
+.row-float-right-blog {
+    color: #898b89;
+}
+
+@media screen and (max-width:1200px) {
+
+    /* navbar */
+    nav .links .links-nav {
+        display: block;
+        padding: 1.1em;
+        font-size: 18px;
+        font-weight: bold;
+        color: #000000;
+        text-decoration: none;
+        position: relative;
+    }
+
+    /* End navbar */
+
+    /* main text section  */
+    .main-sec {
+        margin-top: 90px;
+        margin-bottom: 30px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .first-blog {
+        color: black;
+        font-size: 68px;
+        font-weight: 900;
+    }
+
+    .row-float-left-blog {
+        color: #898b89;
+        float: left;
+        margin: 0 0 0 20px;
+    }
+
+    .row-float-right-blog {
+        float: right;
+        color: #898b89;
+    }
+
+    .first-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    .second-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    .third-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    .forth-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    .fiveth-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    .sixth-blog-sec {
+        margin-left: 200px;
+        text-align: center;
+    }
+
+    /* Footer  */
+    .footer-col h4 {
+        font-size: 28px;
+        color: #ffffff;
+        text-transform: capitalize;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        font-weight: 700;
+        position: relative;
+    }
+
+    .li-footer {
+        color: #bbbbbb;
+        font-size: 16px;
+        font-weight: 500;
+        display: block;
+        text-align: justify;
+    }
+
+    .footer-col ul li a {
+        font-size: 16px;
+    }
+
+    .footer-col iframe {
+        height: 220px;
+        width: 220px;
+    }
+
+    .social-footer-link {
+        display: inline-block;
+        height: 40px;
+        margin: 5px;
+    }
+
+    /* End Footer */
+}
+
+@media screen and (max-width:991px) {
+
+    /* navbar */
+    nav .links .links-nav {
+        display: block;
+        padding: 10.6px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #000000;
+        text-decoration: none;
+        position: relative;
+    }
+
+    /* End navbar */
+
+    /* main text section  */
+    .main-sec {
+        margin-top: 70px;
+        margin-bottom: 30px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .first-blog {
+        color: black;
+        font-size: 58px;
+        font-weight: 700;
+    }
+
+    .row-float-left-blog {
+        color: #898b89;
+        float: left;
+        margin: 0 0 0 30px;
+    }
+
+    .first-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .second-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .third-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .forth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .fiveth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .sixth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    /*End main text section  */
+
+    /* Footer  */
+    .footer-col h4 {
+        font-size: 24px;
+        color: #ffffff;
+        text-transform: capitalize;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        font-weight: 700;
+        position: relative;
+    }
+
+    .li-footer {
+        color: #bbbbbb;
+        font-size: 14px;
+        font-weight: 500;
+        display: block;
+        text-align: justify;
+    }
+
+    .footer-col ul li a {
+        font-size: 14px;
+    }
+
+
+    .footer-col iframe {
+        height: 180px;
+        width: 180px;
+    }
+
+    .main-dev-social-link {
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .social-footer-link {
+        display: inline-block;
+        height: 40px;
+        margin: 15px;
+    }
+
+    /* End Footer */
+
+}
+
+@media screen and (max-width:768px) {
+    nav .links .links-nav {
+        display: block;
+        padding: 10.6px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fffcfc;
+        text-decoration: none;
+        position: relative;
+    }
+}
+
+@media screen and (max-width:766px) {
+
+    /* navbar */
+    nav .links .links-nav {
+        display: block;
+        padding: 10.6px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fffcfc;
+        text-decoration: none;
+        position: relative;
+    }
+
+    /* End navbar */
+
+    /* main text section  */
+    .main-sec {
+        margin-top: 100px;
+        margin-bottom: 5px;
+        width: 100%;
+        height: 100%;
+    }
+
+    /*End main text section  */
+
+    /* Footer  */
+    .footer-col h4 {
+        font-size: 24px;
+        color: #ffffff;
+        text-transform: capitalize;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        font-weight: 700;
+        position: relative;
+    }
+
+    .li-footer {
+        color: #bbbbbb;
+        font-size: 14px;
+        font-weight: 500;
+        display: block;
+        text-align: justify;
+    }
+
+    .footer-col ul li a {
+        font-size: 16px;
+    }
+
+    .footer-col iframe {
+        margin-left: 40px;
+        height: 200px;
+        width: 200px;
+    }
+
+    .social-footer-link {
+        display: inline-block;
+        height: 40px;
+        margin: 10px;
+    }
+
+    /* End Footer */
+
+}
+
+@media screen and (max-width:576px) {
+
+    /* navbar */
+    nav .links .links-nav {
+        display: block;
+        padding: 10.6px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fffcfc;
+        text-decoration: none;
+        position: relative;
+    }
+
+    /* End navbar */
+
+    /* main text section  */
+    .main-sec {
+        margin-top: 50px;
+        margin-bottom: 5px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .first-blog {
+        color: black;
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+
+    .row-float-left-blog {
+        color: #898b89;
+        display: inline-block;
+        white-space: nowrap;
+        margin: 0 0 0 30px;
+    }
+
+    .row-float-right-blog {
+        float: right;
+        white-space: nowrap;
+    }
+
+    .first-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .second-blog-sec {
+        text-align: center;
+    }
+
+
+    .third-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .forth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+
+    .fiveth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .sixth-blog-sec {
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    /*End main text section  */
+
+    /* Footer  */
+    .footer-col h4 {
+        font-size: 24px;
+        color: #ffffff;
+        text-transform: capitalize;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        font-weight: 700;
+        position: relative;
+    }
+
+    .li-footer {
+        color: #bbbbbb;
+        font-size: 14px;
+        margin-right: 40px;
+        font-weight: 500;
+        display: block;
+        text-align: justify;
+    }
+
+
+    .map {
+        margin-left: 20px;
+    }
+
+    .footer-col iframe {
+        text-align: center;
+        height: 240px;
+        width: 240px;
+    }
+
+    .main-dev-social-link {
+        text-align: center;
+        margin: 30px 0 0 0;
+    }
+
+    .social-footer-link {
+        display: inline-block;
+        height: 40px;
+        margin-left: 15px;
+    }
+
+    /* End Footer */
+
+}
+
+@media screen and (max-width:412px) {
+
+    .first-blog-sec {
+        width: 350px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .second-blog-sec {
+        width: 350px;
+        text-align: center;
+    }
+
+
+    .third-blog-sec {
+        width: 350px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .forth-blog-sec {
+        width: 350px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .fiveth-blog-sec {
+        width: 350px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+    .sixth-blog-sec {
+        width: 350px;
+        margin-left: 10px;
+        text-align: center;
+    }
+
+}
